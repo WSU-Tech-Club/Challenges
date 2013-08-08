@@ -4,17 +4,17 @@ This is a compilation of programming problems that I have given and been given f
 
 ### Strings
 
-- Check If Palindrome (number or string) [ispal.go]
-- All Permutations of a string [permute.go]
-- Reverse words in a sentence [revwords.go]
+- Check If Palindrome (number or string) 
+- All Permutations of a string 
+- Reverse words in a sentence 
 
 ### Arrays
 
-- Find Duplicate [funddup.go]
-- Find Missing [findmissing.go]
-- Maximum Contiguous Subsequence [maxsubseqsum.go]
+- Find Duplicate 
+- Find Missing 
+- Maximum Contiguous Subsequence 
 
 ### Data Structures
 
-- Reverse a Linked List [revlink.go]
-- Binary Tree [bintree.go]
+- Reverse a Linked List
+- Binary Tree 
