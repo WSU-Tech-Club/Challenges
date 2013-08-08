@@ -1,6 +1,6 @@
 #Challenges
 
-This is a compilation of programming problems that I have given and been given for people to practice. I will solve and upload each in go.
+This is a compilation of programming problems that I have given and been given for people to practice.
 
 ### Strings
 
